@@ -10,7 +10,7 @@ class Main {
     // which we do NOT know)
     String[] studentNames = new String[15];
 
-    // Use a For loop to loop through the String array
+    // Use a For loop to loop through the String arraym
     for (int i = 0; i < studentNames.length; i++) {
       // Within the For loop, you will want to ask for the student's name (print
       // statement), receive the name(Scanner) and assign it to each element of the
