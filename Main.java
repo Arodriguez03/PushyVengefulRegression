@@ -9,6 +9,7 @@ class Main {
     // Create a String array of 15 elements (representative of the student names
     // which we do NOT know)
     String[] studentNames = new String[15];
+    
     // Use a For loop to loop through the String array
     for (int i = 0; i < studentNames.length; i++) {
       // Within the For loop, you will want to ask for the student's name (print
