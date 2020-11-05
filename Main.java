@@ -14,12 +14,12 @@ class Main {
     for (int i = 0; i < studentNames.length; i++) {
       // Within the For loop, you will want to ask for the student's name (print
       // statement), receive the name(Scanner) and assign it to each element of the
-      // String arraym
+      // String array
       System.out.println("Whats your name?");
       studentNames[i] = scan.next();
     }
     // used a While loop to print each element in the String array along with each
-    // element in the int array
+    // element in the int arraym
      int i = 0;
     while (i <= 14) {
       System.out.println(studentNames[i] + " sits in seat number " + classSeats[i]);
